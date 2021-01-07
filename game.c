@@ -2,7 +2,7 @@
 //
 // Created by Marcus A. Mosley
 // Created on January 2020
-// This program includes the battle scene
+// This program includes enemies
 
 #include <gb/gb.h>
 #include <rand.h>
